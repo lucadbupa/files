@@ -1,0 +1,203 @@
+{
+  "page[0]": {
+      "ID1": {
+          "Name": "Horologium Core",
+          "Image": "https://luca.is-ugly.lol/9wwotpq5f5ibkkughi.png",
+          "Description": "Refine your game modding process with the Horologium Core modding API, a prerequisite for mods featuring HorologiumCore in their zip name. HoroCore empowers you with limitless possibilities, enabling unlimited modifications to your game mechanics and rules. Elevate your gaming experience and delve into the realm of boundless creativity with ease.",
+          "Download": "https://luca.is-ugly.lol/7k8e341582xigo7gih.zip",
+          "Pakchunk": "pakchunk4100-WindowsNoEditor",
+          "Credits": "Cranch"
+      },
+      "ID2": {
+          "Name": "Stretched Resolution",
+          "Image": "https://luca.is-ugly.lol/99h0e5y6e9gzgbhiv3.png",
+          "Description": "Allows you to play with any resolution without black bars and with fixed HUD position\n\nUPDATE: now you can choose option to apply desired resolution only in game (not in entire PC like you did via NVIDIA Contol Panel)How you can do it:\n\n1. Press Win+R and paste the following path:\n\n%localappdata%\\DeadByDaylight\\Saved\\Config\\WindowsClient\\Engine.ini  if you are on Steam%localappdata%\\DeadByDaylight\\Saved\\Config\\EGS\\Engine.ini  if you are on Epic Games\n\n2. In the opened notepad window, navigate to the end of file and paste the following lines:\n\n; How resolution being specified {Resolution_X}x{ResolutionY}{Tags}\n; Examples: 1920x1080f | 800x600w | 3840x2560wf\n[/Game/StretchedRes/Settings.Settings_C]\nbForceScreenResolution=True\nScreenResolutionSettings=1920x1440f\n\n3. Change the resolution value and window mode as you wish and save Engine.ini file",
+          "Download": "https://luca.is-ugly.lol/3y8bszhajqx9yz76pz.zip",
+          "Pakchunk": "pakchunk889-WindowsNoEditor",
+          "Credits": "Олег Шабунов#6272"
+      },
+      "ID3": {
+          "Name": "Emote Wheel (1.0)",
+          "Image": "https://luca.is-ugly.lol/rfcq9za1c4c6ak5dt6.png",
+          "Description": "The default keybind for opening the emote wheel is 'B'. To cancel an emote while it's playing press 'V'.\nBy default, use the scroll wheel on your mouse to change the page in the emote wheel while it is open.\n\nℹ You can not start an emote while another one is playing. Other players can not see you emoting.\n\nYou can change the keybinds by putting this on a new line at the bottom of your Engine.ini file:\n\n\n[/Game/AthenaEmoteMod/WBP_EmoteWheel.WBP_EmoteWheel_C]\nEmoteWheelKey=B            ; key to use emote wheel (hold down)\nEmoteCancelKey=V        ; the key to cancel an emote\nScrollUpKey=MouseScrollUp    ; key to scroll up in the emote wheel\nScrollDownKey=MouseScrollDown    ; key to scroll down in the emote wheel\n\nTo reach your Engine.ini file, press Win+R and paste the following path depending on if you're playing on Steam or Epic Games:\nSteam: %localappdata%\\DeadByDaylight\\Saved\\Config\\WindowsClient\\Engine.ini\\Epic Games: %localappdata%\\DeadByDaylight\\Saved\\Config\\EGS\\Engine.ini",
+          "Download": "https://luca.is-ugly.lol/kbef2wujqs933ey8f9.zip",
+          "Pakchunk": "pakchunk6300-WindowsNoEditor",
+          "Credits": "cool_1234"
+      },
+      "ID4": {
+        "Name": "Invisable Cosmetics",
+        "Image": "https://luca.is-ugly.lol/2xrr0h5cz0xo8gl3f7.png",
+        "Description": "Invisable cosmetics for mods that use one mesh",
+        "Download": "https://luca.is-ugly.lol/7jok06sepivlvl6l1k.rar",
+        "Pakchunk": "pakchunk4974-WindowsNoEditor",
+        "Credits": "Unknown"
+        
+      },
+      "ID5": {
+          "Name": "DURR BURGER OVER DWIGHT",
+          "Image": "https://luca.is-ugly.lol/v1td17jtge6qfq1yf0.png",
+          "Description": "No description needed.",
+          "Download": "https://luca.is-ugly.lol/5ohi452btrv5vgwxkl.rar",
+          "Pakchunk": "pakchunk1320-WindowsNoEditor",
+          "Credits": "bpaxt01"
+      },
+      "ID6": {
+          "Name": "PINK GHOUL OVER NEA",
+          "Image": "https://luca.is-ugly.lol/satz3r6rzmrdy8cwku.png",
+          "Description": "No description needed.",
+          "Download": "https://luca.is-ugly.lol/qat9bgcm6d52qr6isn.rar",
+          "Pakchunk": "pakchunk1920-WindowsNoEditor",
+          "Credits": "bpaxt01"
+      },
+      "ID7": {
+          "Name": "RAP BOY OVER DWIGHT",
+          "Image": "https://luca.is-ugly.lol/aforp0yku0vrc2dxwb.png",
+          "Description": "No description needed.",
+          "Download": "https://luca.is-ugly.lol/siir6dc6wc57310syl.rar",
+          "Pakchunk": "pakchunk1520-WindowsNoEditor",
+          "Credits": "bpaxt01"
+      },
+      "ID8": {
+          "Name": "TRAVIS SCOTT OVER ADAM",
+          "Image": "https://luca.is-ugly.lol/jcllkm19sfl2tc96g6.png",
+          "Description": "No description needed.",
+          "Download": "https://luca.is-ugly.lol/lv0z02yv8fb9ov70ee.rar",
+          "Pakchunk": "pakchunk1820-WindowsNoEditor",
+          "Credits": "bpaxt01"
+      }
+  },
+  "page[1]": {
+      "ID1": {
+        
+          "Name": "lobby killer detector",
+          "Image": "https://luca.is-ugly.lol/ersqlf9ddubsfhwz1a.png",
+          "Description": "This mod determines which killer is currently in the Lobby, his addons, nickname and Steam profile (if he is playing on Steam)\n\nClick on the Steam icon to open Killer's Steam profile.\n\n\nLAST UPDATE:\n25.07.2023 - add addon icons and description",
+          "Download": "https://luca.is-ugly.lol/i1r3vtiiztyplfsgd5.zip",
+          "Pakchunk": "pakchunk870-WindowsNoEditor",
+          "Credits": "Олег Шабунов#6272"
+      },
+      "ID2": {
+          "Name": "Bloody Mary",
+          "Image": "https://luca.is-ugly.lol/gl1pma22t7y1c8qe27.png",
+          "Description": "Mikaela Red as Bloody Mary",
+          "Download": "https://luca.is-ugly.lol/uj5zfk10qzulzgyg0r.zip",
+          "Pakchunk": "pakchunk4356-WindowsNoEditor",
+          "Credits": "Unknown"
+      },
+      "ID3": {
+          "Name": "Homo Sapiens Skeleton",
+          "Image": "https://luca.is-ugly.lol/0ayjbgammp0cjcmh7x.png",
+          "Description": "Intricately designed skin showcases the skeletal structure of our species, allowing you to embody the essence of human history.",
+          "Download": "https://luca.is-ugly.lol/7jz9pyzfjmuazcghoq.zip",
+          "Pakchunk": "pakchunk4953-WindowsNoEditor",
+          "Credits": "Unknown"
+      },
+      "ID4": {
+          "Name": "Iron Maiden Cheryl",
+          "Image": "https://luca.is-ugly.lol/gpb7y7emxt658ag44s.png",
+          "Description": "'Iron Maiden' T-Shirt for Cheryl: This classic grey cotton T-shirt features striking graphic of their iconic mascot 'Eddie'",
+          "Download": "https://luca.is-ugly.lol/bt60mfukeg8q5j9w7v.zip",
+          "Pakchunk": "pakchunk4847-WindowsNoEditor",
+          "Credits": "Unknown"
+      },
+      "ID5": {
+          "Name": "springtrap",
+          "Image": "https://luca.is-ugly.lol/pyrhafcxgjjoax5s3p.png",
+          "Description": "Springtrap over myers",
+          "Download": "https://luca.is-ugly.lol/d2a6r49u1t7wfk7g9d.rar",
+          "Pakchunk": "pakchunk4946-WindowsNoEditor",
+          "Credits": "cool_1234"
+      },
+      "ID6": {
+          "Name": "Coldwind farm corn remover",
+          "Image": "https://luca.is-ugly.lol/66o2r1v9wldb77swiu.png",
+          "Description": "Removes all corn in coldwind farm",
+          "Download": "https://luca.is-ugly.lol/93wwa55cpa5zlrzttx.zip",
+          "Pakchunk": "pakchunk4102-WindowsNoEditor",
+          "Credits": "Unknown"
+      },
+      "ID7": {
+        "Name": "Ellie From 'TLOU'",
+          "Image": "https://luca.is-ugly.lol/uryc7psr08w4dqt86p.png",
+          "Description": "Adds cosmetics to nea.",
+          "Download": "https://luca.is-ugly.lol/d524y1wlzwzrtdjxop.zip",
+          "Pakchunk": "pakchunk7010-WindowsNoEditor",
+          "Credits": "Unknown"
+      },
+      "ID8": {
+          "Name": "jett",
+          "Image": "https://luca.is-ugly.lol/2jpfbp10ezw0ek8pzj.png",
+          "Description": "cosmetic items for nea",
+          "Download": "https://luca.is-ugly.lol/6vf80ev28u07psik15.zip",
+          "Pakchunk": "pakchunk4947-WindowsNoEditor",
+          "Credits": "Unknown"
+      }
+  },
+  "page[2]": {
+    "ID1": {
+      
+        "Name": "[HoroCore] FOV Slider",
+        "Image": "https://luca.is-ugly.lol/zcxaby0rbksmhccr78.png",
+        "Description": "This allows you to set your Field Of View mid-game using a slider, you can press Y to bring the menu on/off, there is also a reset button to put it back to 90. You can @ me for any questions/bugs report.",
+        "Download": "https://luca.is-ugly.lol/mxful2d1eftglq1gqx.rar",
+        "Pakchunk": "pakchunk1011-WindowsNoEditor",
+        "Credits": "cywtpio./lux"
+        },
+        "ID2": {    
+            "Name": "Aura from fortnite",
+            "Image": "https://luca.is-ugly.lol/f6cfdubq9vrbkscdqw.png",
+            "Description": "Cosmetic items for zarina",
+            "Download": "https://luca.is-ugly.lol/efshdeb2yfj746f6u6.zip",
+            "Pakchunk": "pakchunk4951-WindowsNoEditor",
+            "Credits": "Unknown"
+        },
+        "ID3": {
+            "Name": "Pink dildo flashlight",
+            "Image": "https://luca.is-ugly.lol/ym3zoaiex7otfyfgjj.png",
+            "Description": "No description needed.",
+            "Download": "https://luca.is-ugly.lol/acw30os04gurngf7bp.rar",
+            "Pakchunk": "pakchunk7777-WindowsNoEditor",
+            "Credits": ".dystinct"
+        },
+        "ID4": {
+            "Name": "Purple legacy feng",
+            "Image": "https://luca.is-ugly.lol/ulusduhnylqb8l4krc.PNG",
+            "Description": "Replaces one of the base cosmetics with some cool purple legacy",
+            "Download": "https://luca.is-ugly.lol/xsnlcxiqj8e1b6y1qj.rar",
+            "Pakchunk": "pakchunk924-WindowsNoEditor",
+            "Credits": "smirkzyy"
+        },
+        "ID5": {
+            "Name": "Bikini meg",
+            "Image": "https://luca.is-ugly.lol/8jumeuquwmt9ru9p7t.png",
+            "Description": "Changes some of megs base cosmetics into a sexy bikini",
+            "Download": "https://luca.is-ugly.lol/qg4fwjew6eria7g8ut.rar",
+            "Pakchunk": "pakchunk444-WindowsNoEditor",
+            "Credits": "yato5839"
+        },
+        "ID6": {
+            "Name": "Tiffany Cox from Friday The 13TH",
+            "Image": "https://luca.is-ugly.lol/fvawtqqgk37kv0b4pn.png",
+            "Description": "Cosmetic for Laurie Strode.",
+            "Download": "https://luca.is-ugly.lol/22ns1azv29rwpmb30x.rar",
+            "Pakchunk": "pakchunk7812-WindowsNoEditor",
+            "Credits": "wolfyy0111"
+        },
+        "ID7": {
+            "Name": "CUDDLE TEAM LEADER OVER NEA",
+            "Image": "https://luca.is-ugly.lol/14hqc4w25vmhhhar48.png",
+            "Description": "No description needed.",
+            "Download": "https://luca.is-ugly.lol/mhf25x61avcasykb6p.rar",
+            "Pakchunk": "pakchunk1420-WindowsNoEditor",
+            "Credits": "bpaxt01"
+        },
+        "ID8": {
+            "Name": "Goth heather ( cheryl mason / custom slot )",
+            "Image": "https://luca.is-ugly.lol/iymxaitfodrfnq0j7v.png",
+            "Description": "I updated the mod by fixing the weights and adding a skeleton to the model.\n\nYou need to use invisible cosmetics for this mod !",
+            "Download": "https://luca.is-ugly.lol/qrbt4v3ultfiud5fb9.rar",
+            "Pakchunk": "pakchunk87590-WindowsNoEditor",
+            "Credits": "itztivn"
+        }
+    } 
+}
