@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Plague",
+    "prestige": "0",
+    "disabled": false,
+    "items": [
+      {
+        "itemName": "FullMoonBouquet",
+        "count": 0,
+        "disabled": false
+      },
+      {
+        "itemName": "CrescentMoonBouquet",
+        "count": 0,
+        "disabled": false
+      }
+    ]
+  },
+  {
+    "name": "Nightmare",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S43",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Killer07",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S44",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Legion",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Shape",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S42",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Pig",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Ghostface",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Demogorgon",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Cannibal",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K36",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Dwight",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Meg",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Claudette",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Chuckles",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Bob",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "HillBilly",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Witch",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Jake",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Nea",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Ash",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Jane",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Laurie",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Bill",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K35",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S41",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K33",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S39",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Zarina",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Gunslinger",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Quentin",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K34",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K27",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S30",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Eric",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S24",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K22",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K29",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S32",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S33",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Adam",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Spirit",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Yui",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Oni",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Feng",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Bear",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Smoke",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Kate",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Clown",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K30",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S34",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S40",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Nancy",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Steve",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K26",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S29",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S25",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K23",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K25",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Jeff",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S22",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K20",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K24",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S26",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S27",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S23",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K21",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S28",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K31",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S35",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S36",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S38",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K32",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S37",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K28",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "S31",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "Nurse",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K31",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  },
+  {
+    "name": "K37",
+    "prestige": "0",
+    "disabled": false,
+    "items": []
+  }
+]
