@@ -3,18 +3,7 @@
     "name": "Plague",
     "prestige": "0",
     "disabled": false,
-    "items": [
-      {
-        "itemName": "FullMoonBouquet",
-        "count": 0,
-        "disabled": false
-      },
-      {
-        "itemName": "CrescentMoonBouquet",
-        "count": 0,
-        "disabled": false
-      }
-    ]
+    "items": []
   },
   {
     "name": "Nightmare",
